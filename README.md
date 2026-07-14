@@ -1,5 +1,5 @@
 # VNCR_Public
-A B2B tech services website built with Next.js 14, Framer Motion, and Tailwind CSS. Features a custom cursor with mix-blend-mode inversion, scroll-triggered animations, parallax hero, animated counters, and a fully responsive layout — designed to Awwwards SOTD standard. Built for a client.
+A B2B tech services website I built with Next.js 14, Framer Motion, and Tailwind CSS. Features a custom cursor with mix-blend-mode inversion, scroll-triggered animations, parallax hero, animated counters, and a fully responsive layout — designed to Awwwards SOTD standard. Built for a client.
 Stack: Next.js 14 · Tailwind CSS · Framer Motion · TypeScript
 
 
